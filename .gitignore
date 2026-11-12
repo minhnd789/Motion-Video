@@ -1,0 +1,22 @@
+# Clip gốc đặt ở thư mục này để trình chỉnh sửa đọc, không đưa lên Git.
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.m4v
+*.webm
+*.mkv
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.jpg
+*.jpeg
+*.JPG
+*.png
+*.heic
+*.HEIC
+
+node_modules
+.DS_Store
+Thumbs.db
